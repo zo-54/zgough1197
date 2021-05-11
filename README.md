@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zoe
+- 👀 I’m interested in Javascript with an emphasis on Vue and Node. I also have a keen interest in OOP, particularly in C#.
+- 🌱 I’m currently learning MongoDB
+- 📫 You can reach me at zgough1197@gmail.com
