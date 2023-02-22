@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zoe
-- 👀 I’m interested in Javascript with an emphasis on Vue and Node. I also have a keen interest in OOP, particularly in C#.
-- 🌱 I’m currently learning MongoDB
-- 📫 You can reach me at zgough1197@gmail.com
+- 👋 Hi, I’m Zo
+- 🌱 I'm a software engineer for PaperCut Software
+- 👀 I’m experienced in frontend development and JavaScript with an emphasis on React and TypeScript.
+- 📫 You can reach me at zoegough1197@gmail.com
