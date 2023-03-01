@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zo
-- 🌱 I'm a product engineer for PaperCut Software
-- 👀 I’m experienced in frontend development and JavaScript with an emphasis on React and TypeScript.
-- 📫 You can reach me at zoegough1197@gmail.com
+- 👩‍💻 I'm a Software Engineer experienced in frontend development and JavaScript with an emphasis on React and TypeScript.
+- 🗄️ I am skilled in using regex to create vast data sets from unstructured data.
+- ⌨️ My hobbies incude mechanical keyboards, rubiks cubes, board games, DnD and cooking.
