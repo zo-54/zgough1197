@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zo
 - 👩‍💻 I'm a Software Engineer experienced in frontend development and JavaScript with an emphasis on React and TypeScript.
-- 🗄️ I am skilled in using regex to create vast data sets from unstructured data.
+- 🗄️ I am skilled in creating vast data sets from unstructured data.
 - ⌨️ My hobbies incude mechanical keyboards, rubiks cubes, board games, DnD and cooking.
